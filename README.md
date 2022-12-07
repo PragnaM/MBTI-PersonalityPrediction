@@ -11,12 +11,12 @@
 - Predictions based on random user posts
 - Used for forming teams which meet the result as very little is known about what would be the contribution from each personality type. 
 
-# Contribution- 
+# Contribution 
 - Real-time prediction of personality type of Recruiters – from LinkedIn posts
 - Understand what the Recruiter seeks in the candidate.
 
 # Predicting Personalities using XGBoost Algorithm 
 - Data
-		Social media posts of recruiters from LinkedIn
+	- Social media posts of recruiters from LinkedIn
 - Result 
-		Personality Type
+	- Personality Type
